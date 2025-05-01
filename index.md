@@ -36,7 +36,7 @@ University of Manitoba, Winnipeg, MB
 - Designed and built a responsive and intuitive UI using Android Studio and XML layout design  
 - Implemented key features such as product filtering, sorting, and search functionality
 
-### Sota Chatbot – [YouTube](https://www.youtube.com/watch?v=WzB44SP13yM&ab_channel=AymanHkias).
+### Sota Chatbot – [YouTube](https://www.youtube.com/watch?v=WzB44SP13yM&ab_channel=AymanHkias)
 - Designed and developed a behavior model for the humanoid Sota robot to interact with individuals on campus  
 - Integrated gesture control, body language and LED indicators to enhance social interaction  
 - Created a dialog flow using keyword detection and branching logic to respond to individuals' moods and roles  
